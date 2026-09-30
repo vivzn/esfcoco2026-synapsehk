@@ -1,3 +1,25 @@
+# 🏥 Synapse HK
+> **AI-Powered Decentralized Healthcare Triage & Real-Time Epidemic Tracking**
+---
+
+## 📌 Problem
+Healthcare systems in densely populated cities like Hong Kong face two critical challenges:
+1. **Hospital & ER Overcrowding:** Emergency departments are frequently clogged with non-emergency mild illnesses, causing severe delays for patients with life-threatening conditions.
+2. **Delayed Epidemic Response:** Public health authorities often rely on lagged hospital admission data to detect viral outbreaks (e.g., flu spikes, measles), missing crucial early intervention windows.
+
+---
+
+## 💡 Solution
+**Neuron Kiosk** is a decentralized, street-level health triage kiosk powered by multimodal AI and onboard vital sensors. Situated throughout public transit hubs and districts across Hong Kong, Neuron Kiosks rapidly assess patient health, automate non-emergency prescriptions via **Axon Dispensaries**, streamline ER emergency bookings, and aggregate real-time diagnostic data into a public health **Epidemic Heatmap** via hospital triage system.
+
+---
+
+## AI DISCLOSURE
+
+Github Copilot that is built within Vscode was used to aid me Vivaan in developing this project. As github copilot has quite unforgiving limits anyway, a large proportion of this program was self-written.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
