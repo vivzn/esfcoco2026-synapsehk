@@ -1,4 +1,7 @@
 # 🏥 Synapse HK
+
+<img width="388" height="275" alt="Screenshot 2026-10-01 at 12 00 30 AM" src="https://github.com/user-attachments/assets/ef90d7c0-2874-4ca2-a295-cc4a58aa6103" />
+
 > **AI-Powered Decentralized Healthcare Triage & Real-Time Epidemic Tracking**
 ---
 
@@ -22,6 +25,13 @@ Healthcare systems in densely populated cities like Hong Kong face two critical 
 
 
 ---
+
+
+## Flowchart of the program lifecycle
+
+<img width="613" height="435" alt="Screenshot 2026-10-01 at 12 00 00 AM" src="https://github.com/user-attachments/assets/774cfc0d-c5e1-4a09-8846-6f7a847bbe3b" />
+
+___
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
