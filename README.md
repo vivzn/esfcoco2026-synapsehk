@@ -14,7 +14,7 @@ Healthcare systems in densely populated cities like Hong Kong face two critical 
 
 ---
 
-## AI DISCLOSURE
+## 🤖 AI DISCLOSURE
 
 **Github Copilot that is built within Vscode was used to aid me Vivaan in developing this project. As github copilot has quite unforgiving limits anyway, a large proportion of this program was self-written.**
 
