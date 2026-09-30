@@ -26,6 +26,12 @@ Healthcare systems in densely populated cities like Hong Kong face two critical 
 
 ---
 
+## Tech stack
+
+Nextjs, Tailwindcss + Shadcn for ui, Supabase for storing data in the backend. Vercel for deployment
+
+---
+
 
 ## Flowchart of the program lifecycle
 
