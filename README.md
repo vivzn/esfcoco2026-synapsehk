@@ -2,6 +2,8 @@
 > **AI-Powered Decentralized Healthcare Triage & Real-Time Epidemic Tracking**
 ---
 
+Built by Vivaan for ESF COCO 2026 HACKATHON
+
 ## 📌 Problem
 Healthcare systems in densely populated cities like Hong Kong face two critical challenges:
 1. **Hospital & ER Overcrowding:** Emergency departments are frequently clogged with non-emergency mild illnesses, causing severe delays for patients with life-threatening conditions.
