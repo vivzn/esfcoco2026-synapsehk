@@ -18,6 +18,10 @@ Healthcare systems in densely populated cities like Hong Kong face two critical 
 **Neuron Kiosk** is a decentralized, street-level health triage kiosk powered by multimodal AI and onboard vital sensors. Situated throughout public transit hubs and districts across Hong Kong, Neuron Kiosks rapidly assess patient health, automate non-emergency prescriptions via **Axon Dispensaries**, streamline ER emergency bookings, and aggregate real-time diagnostic data into a public health **Epidemic Heatmap** via hospital triage system.
 
 ---
+]
+## AI Implementation
+
+3rd party AI is used (Model Claude Opus 4.6 due to its sheer performance) to analyze patient symptopms and problems. However now that I have published to production the prototype, still having the AI running will charge my own subscription fee. Therefore as of now, the diagnostic algorithnm assigns a random ilness/disease, the website is just for testing.
 
 ## 🤖 AI DISCLOSURE
 
